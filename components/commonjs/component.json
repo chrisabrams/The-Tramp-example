@@ -1,0 +1,15 @@
+{
+  "name": "commonjs",
+  "version": "0.2.0",
+  "main": "./common.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisabrams/commonjs.git"
+  },
+  "dependencies": {},
+  "gitHead": "b01909683d1af67b970f284885981a6a4566183c",
+  "readme": "# CommonJS for the browser\nThis package is a fork of the [brunch.io](http://brunch.io) use of CommonJS. It was created for projects that desire to use Common JS and be agnostic to any build tools.\n\n## Usage\nInclude the `common.js` file at the beginning of your app, or include using bower:\n\n    bower install commonjs\n",
+  "readmeFilename": "README.md",
+  "_id": "commonjs@0.2.0",
+  "description": "This package is a fork of the [brunch.io](http://brunch.io) use of CommonJS. It was created for projects that desire to use Common JS and be agnostic to any build tools."
+}
